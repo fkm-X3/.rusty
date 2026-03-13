@@ -1,0 +1,7 @@
+listen_addrs_ipv4 = ["127.0.0.1"]
+listen_port = 1053  # Use 1053 to avoid needing sudo/root
+
+[[zones]]
+zone = "rusty"
+zone_type = "Primary"
+file = "rusty.zone"

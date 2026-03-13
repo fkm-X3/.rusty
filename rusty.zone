@@ -1,0 +1,11 @@
+$ORIGIN rusty.
+$TTL 3600
+@       IN      SOA     ns1.rusty. admin.rusty. (
+                        2023101001 ; serial
+                        7200       ; refresh
+                        3600       ; retry
+                        1209600    ; expire
+                        3600 )     ; minimum
+        IN      NS      ns1.rusty.
+ns1     IN      A       127.0.0.1
+test    IN      A       1.2.3.4
