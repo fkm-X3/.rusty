@@ -1,3 +1,7 @@
+# IMPORTENT: This is a fork of the Hickory-dns, this will be modifed to run .rusty websites with the hickory-dns as the engine
+
+## REST OF INFO IS FROM Hickory-dns (don't feel like changing it yet)
+
 [![Build Status](https://github.com/hickory-dns/hickory-dns/workflows/test/badge.svg?branch=main)](https://github.com/hickory-dns/hickory-dns/actions?query=workflow%3Atest)
 [![codecov](https://codecov.io/gh/hickory-dns/hickory-dns/branch/main/graph/badge.svg)](https://codecov.io/gh/hickory-dns/hickory-dns)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE-MIT)
